@@ -6,7 +6,7 @@ The data was collected from [Kaggle.com](https://www.kaggle.com/c/dogs-vs-cats).
 Also, huge shoutout to Siraj Raval for always keeping Data Science and Computer Science interesting. Here is his [video](https://www.youtube.com/watch?v=cAICT4Al5Ow) covering this topic!
 
 ### CNN Model
-![CNN Model](https://github.com/Life-According-to-Jordan/Cat_Dog/blob/master/ConvNet.png)
+![CNN Model](https://github.com/Life-According-to-Jordan/Cat_Dog/blob/master/CNN.png)
 
 
 #### Additional Resources:
