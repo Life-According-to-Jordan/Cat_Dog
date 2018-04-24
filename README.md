@@ -12,6 +12,7 @@ Also, huge shoutout to Siraj Raval for always keeping Data Science and Computer 
 ![Final Model](https://github.com/Life-According-to-Jordan/Cat_Dog/blob/master/CNN_Accuracy.png)
 
 After 30 epochs on 20,000 training images, the model's accuracy is near 87.5%.
+
 After 30 epochs on 20,000 training images, with data augmentation, the model's accuracy is near 91%.
 
 #### Additional Resources:
