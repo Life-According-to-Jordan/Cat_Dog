@@ -8,6 +8,10 @@ Also, huge shoutout to Siraj Raval for always keeping Data Science and Computer 
 ### CNN Model
 ![CNN Model](https://github.com/Life-According-to-Jordan/Cat_Dog/blob/master/CNN.png)
 
+### Accuracy Score - Final Model
+![Final Model](https://github.com/Life-According-to-Jordan/Cat_Dog/blob/master/CNN_Accuracy.png)
+
+After 30 epochs on 20,000 training images, the model's accuracy is near 87.5%.
 
 #### Additional Resources:
 * [Keras](https://keras.io/)
